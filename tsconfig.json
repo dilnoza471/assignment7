@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "target": "es2024",
+    "module": "es2022",
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  }
+}
