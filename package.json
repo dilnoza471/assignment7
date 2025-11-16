@@ -2,7 +2,8 @@
   "type": "module",
   "scripts": {
     "start": "ts-node src/index.ts",
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint ."
   },
   "dependencies": {
     "@types/jest": "^30.0.0",
